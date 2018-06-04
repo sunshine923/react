@@ -1,0 +1,15 @@
+////////////////////////一些包//////////////////
+1> redux react-redux redux-thunk redux-logger
+2>react-router react-router-dom(比前面多了一些dom元素操作 推荐)
+3>axios
+4>antd  react-app-rewired  babel-plugin-import
+5>classnames 可以添加多个classname  import classNames from 'classnames/bind'   let cx = classNames.bind(styles)
+6>highcharts 图表
+7>js-file-download  文件导出
+8>leaflet  react-leaflet  react-leaflet-heatmap-layer  热力图
+9>prop-types 类型检测
+10>rc-queue-anim 动画
+11>signals 独立组件间的通信
+12>reqwest 请求api
+13>eslint  Javascript代码进行代码规范检查工具
+14>babel-plugin-transform-decorators-legacy 装饰器 @

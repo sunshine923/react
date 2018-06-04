@@ -1,0 +1,19 @@
+///////////一些包//////////
+1>hoist-non-react-statics  为了让返回的组件有原始组件的静态方法，就要在函数内部将原始组件的静态方法复制给新的组件
+2>lodash
+3>react-native-check-box 多选
+4>react-native-easy-toast
+5>react-native-highcharts
+6>react-native-image-picker
+7>react-native-keyboard-spacer
+8>react-native-modal 弹出框
+9>react-native-picker 选择器组件
+10>react-native-splash-screen  启动页
+11>react-native-storage
+12>react-native-swipe-left
+13>react-native-swipe-list-view
+14>react-native-swiper
+15>react-navigation
+16>react-redux
+17>redux
+18>redux-thunk
